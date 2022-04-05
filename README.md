@@ -1,5 +1,5 @@
 # Images Segmentation
-## What is it ?
+## What is this ?
 This is a study about the use of K-means on the Berkeley Segmentation Benchmark.
 
 ## Sample Image
