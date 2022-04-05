@@ -1,3 +1,6 @@
+![License](https://img.shields.io/badge/MIT-red.svg)
+![Language](https://img.shields.io/badge/language-Python%20-blue.svg)
+
 # Images Segmentation
 ## What is this ?
 This is a study of the use of K-means on the Berkeley Segmentation Benchmark.
