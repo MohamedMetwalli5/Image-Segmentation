@@ -3,7 +3,7 @@
 
 # Images Segmentation
 ## What is this ?
-This is a study of the use of K-means on the Berkeley Segmentation Benchmark.
+This is a study of the use of K-means and Normalized cut using knn = 5  on the Berkeley Segmentation Benchmark.
 
 ## Sample Images
 ![image](https://user-images.githubusercontent.com/58489322/161772648-17641284-772d-44c0-9d15-4485be20eb52.png)
