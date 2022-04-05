@@ -5,7 +5,7 @@
 ## What is this ?
 This is a study of the use of K-means and Normalized cut using knn = 5  on the Berkeley Segmentation Benchmark.
 
-# Tunning
+## Tunning
 The tuning was done on 200 images of the training set to get the best k between {3,5,7,9,11} which is K=3 according to F-measure.
 We used the best k to test our algorithm using 50 images of the test set.
 
