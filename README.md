@@ -1,7 +1,7 @@
 ![Language](https://img.shields.io/badge/language-Python%20-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT%20-red.svg)
 
-# Images Segmentation
+# Image Segmentation
 ## What is this ?
 This is a study of the use of K-means and Normalized cut using KNN with k = 5  on the Berkeley Segmentation Benchmark.
 
